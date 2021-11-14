@@ -5,12 +5,8 @@ Tooplate 2126 Antique Cafe
 https://www.tooplate.com/view/2126-antique-cafe
 
 */
-.custom-select {
-  position: relative;
-  font-family: Arial;
-}
 
-.custom-select select {
+.goog-te-combo {
   display: none; /*hide original SELECT element: */
 }
 
